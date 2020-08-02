@@ -11,7 +11,7 @@ print(driver.title)
 driver.find_element(By.NAME, 'q').send_keys("Python")
 
 optionList = driver.find_elements(By.CSS_SELECTOR, "ul.erkvQe li span")
-print(len(optionList))
+print("List items"+len(optionList))
 
 for element in optionList:
     print(element.text)

@@ -1,7 +1,7 @@
 /mvn_repo_local/**
 /drivers/**
-/.idea/**
-/Include/**
-/Lib/**
-/Scripts/**
-pyvenv.cfg
+*/.idea/**
+*/Include/**
+*/Lib/**
+*/Scripts/**
+*//pyvenv.cfg
