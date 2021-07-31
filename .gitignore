@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /mvn_repo_local/**
 /drivers/**
 */.idea/**
@@ -5,3 +6,7 @@
 */Lib/**
 */Scripts/**
 *//pyvenv.cfg
+=======
+# created by virtualenv automatically
+*
+>>>>>>> 8f63032... Initial Commit : Option Strategies
